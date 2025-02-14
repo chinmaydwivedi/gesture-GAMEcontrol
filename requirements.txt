@@ -1,0 +1,13 @@
+# Core libraries
+opencv-python==4.8.0
+mediapipe==0.10.0
+numpy>=1.24.0
+
+# System interaction
+pywin32==306
+keyboard==0.13.5
+
+# Optional but recommended for development
+black==23.3.0        # Code formatting
+pylint==2.17.3       # Code linting
+ipython==8.13.2      # Interactive Python shell
