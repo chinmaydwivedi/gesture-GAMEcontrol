@@ -1,4 +1,4 @@
-# Gesture Game
+# Gesture Control Game(For MAC)
 
 Welcome to the Gesture Game! This project is a fun and interactive game that uses gesture recognition to control gameplay.
 
